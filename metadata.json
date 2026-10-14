@@ -1,0 +1,6 @@
+{
+  "name": "FuelLedger India - Petrol Pump Daily Account Manager",
+  "description": "Mobile-friendly daily account management for Indian petrol pumps with meter readings, UPI & card reconciliation, fuel testing, and cash calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
